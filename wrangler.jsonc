@@ -1,5 +1,5 @@
 {
-  "name": "cloudflareproxy",
+  "name": "cfproxy",
   "main": "index.js",
   "compatibility_date": "2025-09-23"
 }
